@@ -10,4 +10,5 @@
 
 <p>Drawing or painting</p><a href="https://www.creativitycat'sresults.com"
 <button>vote</button>
+
 <p><strong>Thanks for voting if you did</strong></p>
