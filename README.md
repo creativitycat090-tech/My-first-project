@@ -1,7 +1,9 @@
 # My-first-project
 </html>www.Creativitycat.org</html>
 <p>The officialwebsite for creativity cat's craft ideas!</p>
-<p>vote for my next idea!</p><a href="https://www.creativitycat'sresults.com>
+<p>vote for my next idea!</p>
+<a href="https://www.creativitycat'sresults.com>
+
 <p>Electric build</p>
 <button>Vote</button></a>
 
